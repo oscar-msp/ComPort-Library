@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/08/06 10:44:29.000.565,=rtl.dcp</Transaction>
+    <Transaction>2024/08/06 10:44:52.000.923,C:\Users\oscar.APPCO\Documents\Embarcadero\Studio\Projects\Package1.dproj=C:\Components12\cport\Packages\12A\Cport_D.dproj</Transaction>
+    <Transaction>2024/08/06 10:45:41.000.969,=vcl.dcp</Transaction>
+    <Transaction>2024/08/06 10:45:48.000.757,=CPort_R.dcp</Transaction>
+    <Transaction>2024/08/06 10:45:57.000.663,=designide.dcp</Transaction>
+    <Transaction>2024/08/06 10:46:34.000.560,=C:\Components12\cport\Source\CPortReg.pas</Transaction>
+    <Transaction>2024/08/06 10:46:34.000.496,=C:\Components12\cport\Source\CPortAbout.pas</Transaction>
+  </Transactions>
+</BorlandProject>

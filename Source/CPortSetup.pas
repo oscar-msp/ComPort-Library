@@ -34,11 +34,11 @@ type
     Label4: TLabel;
     Label5: TLabel;
     Label6: TLabel;
-    Combo2: TComComboBox;
-    Combo3: TComComboBox;
-    Combo4: TComComboBox;
-    Combo5: TComComboBox;
     Combo6: TComComboBox;
+    Combo5: TComComboBox;
+    Combo4: TComComboBox;
+    Combo3: TComComboBox;
+    Combo2: TComComboBox;
     Combo1: TComComboBox;
   end;
 
