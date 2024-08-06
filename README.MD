@@ -45,6 +45,8 @@ The master branch is focused on Delphi and all CBuilder support has been removed
 | Delphi RS 10.1 | .\Packages\101B\CPort_R.dpk | .\Packages\101B\CPort_D.dpk | should work |
 | Delphi RS 10.2 | .\Packages\102T\CPort_R.dpk | .\Packages\102T\CPort_D.dpk | tested |
 | Delphi RS 10.3 | .\Packages\103R\CPort_R.dpk | .\Packages\103R\CPort_D.dpk | should work |
+| Delphi 12 | .\Packages\12A\CPort_R.dpk | .\Packages\12A\CPort_D.dpk | should work |
+
 
 
 
